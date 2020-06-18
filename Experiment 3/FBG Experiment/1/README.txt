@@ -1,0 +1,1 @@
+Inside the V-REP folder, create the following path " FBG_Experiments/Exp3Trial1/ ". Copy in the last folder, the files contained in the "FBG Data" folder.
